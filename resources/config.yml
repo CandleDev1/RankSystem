@@ -1,0 +1,15 @@
+format:
+  0:
+    format: "§7[§fPlayer§7] {tag} {player}§7: {msg}"
+  1:
+    format: "&7[&cAdmin&7] {tag} &c{player}&7: {msg}"
+  2:
+    format: "&7[&4Owner&7] {tag} &4{player}&7: {msg}"
+
+Tagformat:
+  0:
+    format: " "
+  11:
+    format: "[§3OG§f] "
+  2:
+    format: "[§4Clown§f] "
